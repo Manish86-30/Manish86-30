@@ -5,8 +5,6 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">🚀 I Passionate Backend Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://mocknisb.netlify.app/gif.gif">
-
 - 🌱 I’m currently learning **Full Stack Development (Django + React + AWS)**
 - 💬 Ask me about **Python, Django, Django Rest FrameWork, HTML, CSS**
 - 📫 Reach me at **manish863043@gmail.com**
@@ -64,11 +62,6 @@
 
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-
-
 
 ---
 
