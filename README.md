@@ -20,9 +20,6 @@
 <a href="https://www.linkedin.com/in/manish-kumar-779bb8216/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
   <a href="https://github.com/Manish86-30" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
 </a>
- <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank" title="Gmail">
-    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
-  </a>
 </p>
 
 ---
