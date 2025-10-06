@@ -1,67 +1,80 @@
-<!-- Header Section -->
-<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">🚀 Backend Developer | Django | REST APIs | Docker | AWS</h3>
+<!-- 💻 Backend Developer Banner -->
+![MasterHead](https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com//Manish86-30/main/banner.png" alt="Manish Kumar Banner" width="100%" />
+
+<h1 align="center">Hi 👋, I'm Manish Kumar</h1>
+<h3 align="center">🚀 I Passionate Backend Developer from India</h3>
+
+<img align="right" alt="Coding" width="400" src="https://mocknisb.netlify.app/gif.gif">
+
+- 🌱 I’m currently learning **Full Stack Development (Django + React + AWS)**
+- 💬 Ask me about **Python, Django, Django Rest FrameWork, HTML, CSS**
+- 📫 Reach me at **manish863043@gmail.com**
+- ⚡ Fun fact: I love turning ideas into scalable backend systems.
+
+---
+
+### 🌐 Connect with me:
+<p align="left">
+<a href="#" target="_blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WOKyKTz7IwY39yRMPMnZeh_NHEKRSwXF9A&s" alt="Portfolio" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/manish-kumar-779bb8216/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://github.com/Manish86-30" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+</a>
+ <a href="mailto:manish863043@gmail.com" target="_blank" title="Gmail">
+    <img align="center" src="https://skillicons.dev/icons?i=gmail" alt="Gmail" height="40" width="40" />
+  </a>
 </p>
 
-
 ---
 
-### 🧑‍💻 About Me
-- 💡 Passionate about building **scalable backends and secure REST APIs**  
-- 🐍 Experienced in **Python** & **Django** ecosystem  
-- 🐳 Containerized apps using **Docker** and deployed to **AWS**  
-- ⚙️ I love clean architecture, automation, and DevOps workflows  
-- 📫 Reach me at **[your-email@example.com](mailto:your-email@example.com)**  
-
----
-
-### 🛠️ Tech Stack
-
-#### 💻 Backend & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🧠 Tech Stack:
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-FF1709?style=for-the-badge&logo=django&logoColor=white)
-
-#### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-#### ☁️ DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+---
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manish&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manish&theme=tokyonight" alt="GitHub streak" height="160"/>
-</p>
+## 📊 GitHub Stats & Achivements:
+![](https://github-profile-trophy.vercel.app/?username=Manish&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+
+![](https://github-readme-stats.vercel.app/api?username=Manish&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Manish&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Manish&theme=radical&hide_border=false&layout=compact)
 
 ---
 
-### 🌍 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:your-manish@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/Manish86-30/YOUR_GITHUB_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-100000.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+### ✍️ Dev Quote of the Day
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
+
+
+
 
 ---
 
-### 🧩 Fun Facts
-- 🕹️ I enjoy solving system design challenges and debugging tough backend issues  
-- 🌱 Currently exploring **FastAPI** and **Kubernetes**  
-- 🎯 Goal for 2025: Build a SaaS product using Django + AWS + Docker  
+### 🌟 Top Contributions
+![](https://github-contributor-stats.vercel.app/api?username=Manish86-30&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
 ---
+
+[![](https://visitcount.itsvg.in/api?id=Manish86-30&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
