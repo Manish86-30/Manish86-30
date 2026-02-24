@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Full Stack Development**
 - 🐍 Experienced in Python & Django ecosystem
 - ⚙️ I love clean architecture, automation, and DevOps workflows
-- 💬 Ask me about **Python, Django, Django Rest FrameWork, HTML, CSS**
+- 💬 Ask me about **Python, Django, Django Rest FrameWork, RestAPI, MySQL, HTML, CSS**
 - 📫 Reach me at **manish863043@gmail.com**
 - ⚡ Fun fact: I love turning ideas into scalable backend systems.
 
