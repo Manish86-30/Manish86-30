@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
 <h3 align="center">🚀 I Passionate Backend Developer from India</h3>
 
-- 🌱 I’m currently learning **Full Stack Development (Django + React + AWS)**
+- 🌱 I’m currently learning **Full Stack Development**
 - 🐍 Experienced in Python & Django ecosystem
 - ⚙️ I love clean architecture, automation, and DevOps workflows
 - 💬 Ask me about **Python, Django, Django Rest FrameWork, HTML, CSS**
