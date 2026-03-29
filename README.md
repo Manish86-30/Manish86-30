@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 🐍 Experienced in Python & Django ecosystem
-- ⚙️ I love clean architecture, automation, and DevOps workflows
+- ⚙️ I love clean architecture, automation, and DevOps-driven workflows as a backend developer.
 - 💬 Ask me about **Python, Django, Django Rest FrameWork, RestAPI, MySQL, HTML, CSS**
 - 📫 Reach me at **manish863043@gmail.com**
 - ⚡ Fun fact: I love turning ideas into scalable backend systems.
@@ -16,10 +16,17 @@
 
 ### 🌐 Connect with me:
 <p align="left">
-<a href="http://127.0.0.1:8000/" target="_blank"  rel="noopener noreferrer"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WOKyKTz7IwY39yRMPMnZeh_NHEKRSwXF9A&s" alt="Portfolio" height="40" width="40" /></a>
-<a href="https://www.linkedin.com/in/manish-kumar-779bb8216/" target="_blank"  rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://github.com/Manish86-30" target="_blank"  rel="noopener noreferrer"><img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
-</a>
+  <a href="http://127.0.0.1:8000/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4WOKyKTz7IwY39yRMPMnZeh_NHEKRSwXF9A&s" alt="Portfolio" height="40" width="40" />
+  </a>
+
+  <a href="https://www.linkedin.com/in/manish-kumar-779bb8216/" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" />
+  </a>
+
+  <a href="https://github.com/Manish86-30" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" width="40" />
+  </a>
 </p>
 
 ---
