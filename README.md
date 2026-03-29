@@ -3,11 +3,11 @@
 
 
 <h1 align="center">Hi 👋, I'm Manish Kumar</h1>
-<h3 align="center">🚀 I Passionate Backend Developer from India</h3>
+<h3 align="center">🚀 Passionate Backend Developer from India</h3>
 
 - 🌱 I’m currently learning **Full Stack Development**
 - 🐍 Experienced in Python & Django ecosystem
-- ⚙️ I love clean architecture, automation, and DevOps-driven workflows as a backend developer.
+- ⚙️ Backend developer focused on clean architecture, scalable systems, and DevOps-driven workflows
 - 💬 Ask me about **Python, Django, Django Rest FrameWork, RestAPI, MySQL, HTML, CSS**
 - 📫 Reach me at **manish863043@gmail.com**
 - ⚡ Fun fact: I love turning ideas into scalable backend systems.
